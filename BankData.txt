@@ -1,0 +1,420 @@
+
+
+# List of Banks and Their Details
+
+## Bank Information
+
+1. **NovaBank**
+   * **Address**: 123 Main St
+   * **City**: Anytown
+   * **State**: CA
+   * **Zip**: 12345
+   * **Branches**: 3
+
+2. **ApexBank**
+   * **Address**: 456 Elm St
+   * **City**: Othertown
+   * **State**: NY
+   * **Zip**: 67890
+   * **Branches**: 2
+
+3. **SecureBank**
+   * **Address**: 789 Oak St
+   * **City**: Suburbiaville
+   * **State**: FL
+   * **Zip**: 34567
+   * **Branches**: 4
+
+4. **ProsperaBank**
+   * **Address**: 321 Maple St
+   * **City**: Downtown
+   * **State**: TX
+   * **Zip**: 90123
+   * **Branches**: 5
+
+5. **LibertyBank**
+   * **Address**: 901 Pine St
+   * **City**: Cityville
+   * **State**: IL
+   * **Zip**: 67890
+   * **Branches**: 3
+
+6. **FusionBank**
+   * **Address**: 4567 Broadway
+   * **City**: Metropolis
+   * **State**: NJ
+   * **Zip**: 11111
+   * **Branches**: 2
+
+7. **HorizonBank**
+   * **Address**: 12345 Main St
+   * **City**: Anytown
+   * **State**: CA
+   * **Zip**: 12345
+   * **Branches**: 3
+
+8. **PacificBank**
+   * **Address**: 901 Maple St
+   * **City**: Downtown
+   * **State**: TX
+   * **Zip**: 90123
+   * **Branches**: 5
+
+9. **SterlingBank**
+   * **Address**: 789 Oak St
+   * **City**: Suburbiaville
+   * **State**: FL
+   * **Zip**: 34567
+   * **Branches**: 4
+
+10. **VanguardBank**
+    * **Address**: 456 Elm St
+    * **City**: Othertown
+    * **State**: NY
+    * **Zip**: 67890
+    * **Branches**: 2
+
+11. **CitizensBank**
+    * **Address**: 345 Park Ave
+    * **City**: Uptown
+    * **State**: NY
+    * **Zip**: 23456
+    * **Branches**: 4
+
+12. **TrustBank**
+    * **Address**: 890 Elm St
+    * **City**: Downtown
+    * **State**: IL
+    * **Zip**: 78901
+    * **Branches**: 3
+
+13. **SummitBank**
+    * **Address**: 678 Main St
+    * **City**: Suburbia
+    * **State**: NJ
+    * **Zip**: 11123
+    * **Branches**: 2
+
+14. **HarborBank**
+    * **Address**: 231 Maple Ave
+    * **City**: Beachside
+    * **State**: FL
+    * **Zip**: 34578
+    * **Branches**: 3
+
+15. **CapitalBank**
+    * **Address**: 567 Oak Blvd
+    * **City**: Downtown
+    * **State**: CA
+    * **Zip**: 12345
+    * **Branches**: 5
+
+16. **EmpireBank**
+    * **Address**: 901 Pine St
+    * **City**: Cityville
+    * **State**: IL
+    * **Zip**: 67890
+    * **Branches**: 3
+
+17. **MetroBank**
+    * **Address**: 4567 Broadway
+    * **City**: Metropolis
+    * **State**: NJ
+    * **Zip**: 11111
+    * **Branches**: 2
+
+18. **ParkBank**
+    * **Address**: 12345 Main St
+    * **City**: Anytown
+    * **State**: CA
+    * **Zip**: 12345
+    * **Branches**: 3
+
+19. **PlazaBank**
+    * **Address**: 901 Maple St
+    * **City**: Downtown
+    * **State**: TX
+    * **Zip**: 90123
+    * **Branches**: 5
+
+20. **UnionBank**
+    * **Address**: 789 Oak St
+    * **City**: Suburbiaville
+    * **State**: FL
+    * **Zip**: 34567
+    * **Branches**: 4
+
+21. **ValleyBank**
+    * **Address**: 123 Elm St
+    * **City**: Downtown
+    * **State**: CA
+    * **Zip**: 12345
+    * **Branches**: 3
+
+22. **RiverBank**
+    * **Address**: 456 Main St
+    * **City**: Suburbia
+    * **State**: NY
+    * **Zip**: 67890
+    * **Branches**: 2
+
+23. **MountainBank**
+    * **Address**: 789 Oak Blvd
+    * **City**: Uptown
+    * **State**: NJ
+    * **Zip**: 11123
+    * **Branches**: 4
+
+24. **GardenBank**
+    * **Address**: 321 Maple Ave
+    * **City**: Beachside
+    * **State**: FL
+    * **Zip**: 34578
+    * **Branches**: 3
+
+25. **StarBank**
+    * **Address**: 567 Pine St
+    * **City**: Downtown
+    * **State**: IL
+    * **Zip**: 90123
+    * **Branches**: 5
+
+26. **OakBank**
+    * **Address**: 901 Elm St
+    * **City**: Cityville
+    * **State**: TX
+    * **Zip**: 67890
+    * **Branches**: 3
+
+27. **PineBank**
+    * **Address**: 4567 Broadway
+    * **City**: Metropolis
+    * **State**: NJ
+    * **Zip**: 11111
+    * **Branches**: 2
+
+28. **MainBank**
+    * **Address**: 12345 Main St
+    * **City**: Anytown
+    * **State**: CA
+    * **Zip**: 12345
+    * **Branches**: 3
+
+29. **MapleBank**
+    * **Address**: 901 Maple St
+    * **City**: Downtown
+    * **State**: TX
+    * **Zip**: 90123
+    * **Branches**: 5
+
+30. **ElmBank**
+    * **Address**: 789 Oak St
+    * **City**: Suburbiaville
+    * **State**: FL
+    * **Zip**: 34567
+    * **Branches**: 4
+
+31. **BroadwayBank**
+    * **Address**: 456 Elm St
+    * **City**: Othertown
+    * **State**: NY
+    * **Zip**: 67890
+    * **Branches**: 2
+
+32. **ParkAveBank**
+    * **Address**: 345 Park Ave
+    * **City**: Uptown
+    * **State**: NY
+    * **Zip**: 23456
+    * **Branches**: 4
+
+33. **OakStBank**
+    * **Address**: 890 Elm St
+    * **City**: Downtown
+    * **State**: IL
+    * **Zip**: 78901
+    * **Branches**: 3
+
+34. **MainStBank**
+    * **Address**: 678 Main St
+    * **City**: Suburbia
+    * **State**: NJ
+    * **Zip**: 11123
+    * **Branches**: 2
+
+35. **BeachBank**
+    * **Address**: 231 Maple Ave
+    * **City**: Beachside
+    * **State**: FL
+    * **Zip**: 34578
+    * **Branches**: 3
+
+36. **BlvdBank**
+    * **Address**: 567 Oak Blvd
+    * **City**: Downtown
+    * **State**: CA
+    * **Zip**: 12345
+    * **Branches**: 5
+
+37. **CityBank**
+    * **Address**: 901 Pine St
+    * **City**: Cityville
+    * **State**: IL
+    * **Zip**: 67890
+    * **Branches**: 3
+
+38. **MetroParkBank**
+
+
+    * **Address**: 4567 Broadway
+    * **City**: Metropolis
+    * **State**: NJ
+    * **Zip**: 11111
+    * **Branches**: 2
+
+39. **DowntownBank**
+    * **Address**: 12345 Main St
+    * **City**: Anytown
+    * **State**: CA
+    * **Zip**: 12345
+    * **Branches**: 3
+
+40. **PlazaSqBank**
+    * **Address**: 901 Maple St
+    * **City**: Downtown
+    * **State**: TX
+    * **Zip**: 90123
+    * **Branches**: 5
+
+41. **FirstBank**
+    * **Address**: 123 Main St
+    * **City**: Anytown
+    * **State**: CA
+    * **Zip**: 12345
+    * **Branches**: 3
+
+42. **SecondBank**
+    * **Address**: 456 Elm St
+    * **City**: Othertown
+    * **State**: NY
+    * **Zip**: 67890
+    * **Branches**: 2
+
+43. **ThirdBank**
+    * **Address**: 789 Oak St
+    * **City**: Suburbiaville
+    * **State**: FL
+    * **Zip**: 34567
+    * **Branches**: 4
+
+44. **FourthBank**
+    * **Address**: 321 Maple St
+    * **City**: Downtown
+    * **State**: TX
+    * **Zip**: 90123
+    * **Branches**: 5
+
+45. **FifthBank**
+    * **Address**: 901 Pine St
+    * **City**: Cityville
+    * **State**: IL
+    * **Zip**: 67890
+    * **Branches**: 3
+
+46. **SixthBank**
+    * **Address**: 456 Elm St
+    * **City**: Othertown
+    * **State**: NY
+    * **Zip**: 67890
+    * **Branches**: 2
+
+47. **SeventhBank**
+    * **Address**: 789 Oak St
+    * **City**: Suburbiaville
+    * **State**: FL
+    * **Zip**: 34567
+    * **Branches**: 4
+
+48. **EighthBank**
+    * **Address**: 321 Maple St
+    * **City**: Downtown
+    * **State**: TX
+    * **Zip**: 90123
+    * **Branches**: 5
+
+49. **NinthBank**
+    * **Address**: 901 Pine St
+    * **City**: Cityville
+    * **State**: IL
+    * **Zip**: 67890
+    * **Branches**: 3
+
+50. **TenthBank**
+    * **Address**: 456 Elm St
+    * **City**: Othertown
+    * **State**: NY
+    * **Zip**: 67890
+    * **Branches**: 2
+
+51. **EleventhBank**
+    * **Address**: 789 Oak St
+    * **City**: Suburbiaville
+    * **State**: FL
+    * **Zip**: 34567
+    * **Branches**: 4
+
+52. **TwelfthBank**
+    * **Address**: 321 Maple St
+    * **City**: Downtown
+    * **State**: TX
+    * **Zip**: 90123
+    * **Branches**: 5
+
+53. **ThirteenthBank**
+    * **Address**: 901 Pine St
+    * **City**: Cityville
+    * **State**: IL
+    * **Zip**: 67890
+    * **Branches**: 3
+
+54. **FourteenthBank**
+    * **Address**: 456 Elm St
+    * **City**: Othertown
+    * **State**: NY
+    * **Zip**: 67890
+    * **Branches**: 2
+
+55. **FifteenthBank**
+    * **Address**: 789 Oak St
+    * **City**: Suburbiaville
+    * **State**: FL
+    * **Zip**: 34567
+    * **Branches**: 4
+
+56. **SixteenthBank**
+    * **Address**: 321 Maple St
+    * **City**: Downtown
+    * **State**: TX
+    * **Zip**: 90123
+    * **Branches**: 5
+
+57. **SeventeenthBank**
+    * **Address**: 901 Pine St
+    * **City**: Cityville
+    * **State**: IL
+    * **Zip**: 67890
+    * **Branches**: 3
+
+58. **EighteenthBank**
+    * **Address**: 456 Elm St
+    * **City**: Othertown
+    * **State**: NY
+    * **Zip**: 67890
+    * **Branches**: 2
+
+59. **NineteenthBank**
+    * **Address**: 789 Oak St
+    * **City**: Suburbiaville
+    * **State**: FL
+    * **Zip**: 34567
+    * **Branches**: 4
