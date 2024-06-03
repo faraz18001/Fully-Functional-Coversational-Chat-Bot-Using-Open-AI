@@ -5,7 +5,7 @@ from pathlib import Path
 from openai import OpenAI
 
 # Initialize OpenAI client
-api_key = "sk-proj-S3SHhak5QUB1HEI8mbAsT3BlbkFJzqgnHptaPgYqLtLMNstd"
+api_key = ""
 client = OpenAI(api_key=api_key)
 
 # Audio recording parameters
