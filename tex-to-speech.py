@@ -2,7 +2,7 @@ import sys
 from pathlib import Path
 from openai import OpenAI
 
-api_key = "sk-proj-S3SHhak5QUB1HEI8mbAsT3BlbkFJzqgnHptaPgYqLtLMNstd"
+api_key = ""
 client = OpenAI(api_key=api_key)
 
 if len(sys.argv) < 2:
