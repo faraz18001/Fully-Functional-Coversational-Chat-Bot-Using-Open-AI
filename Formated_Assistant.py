@@ -14,7 +14,7 @@ and have a conversation with the assistant using voice input and audio output.
 """
 
 # Set the API key
-api_key = "sk-proj-S3SHhak5QUB1HEI8mbAsT3BlbkFJzqgnHptaPgYqLtLMNstd"
+api_key = ""
 client = OpenAI(api_key=api_key)
 
 # Create the assistant or check if one already exists
